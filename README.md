@@ -5,3 +5,4 @@
 5. Add there an instruction
 6. Create commit to readme.md file
 7. Merged commit from "development" to "main" 
+8. Share your repository URL on Prometheus.
